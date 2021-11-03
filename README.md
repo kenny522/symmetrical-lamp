@@ -18,7 +18,7 @@
   `npm i console.table --save`
   
   ## Deployment
-  Here is the demo [link](https://drive.google.com/file/d/1fWsShvuiKPaqdQDuaXi3k13jPsVUUgZ7/view?usp=sharing)
+  Here is the demo [link]()
   
   
   ## License
